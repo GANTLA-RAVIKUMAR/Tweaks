@@ -1,0 +1,8 @@
+{
+  "name": "Tweaks App",
+  "description": "A privacy-focused chat application inspired by WhatsApp with incognito chats, call functionality, and enhanced user privacy features. All data is erased when the app is closed.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
